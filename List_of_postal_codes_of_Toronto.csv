@@ -65,12 +65,6 @@ M9J;Not assigned;Not assigned
 M1K;Scarborough;Kennedy Park, Ionview, East Birchmount Park
 M2K;North York;Bayview Village
 M3K;North York;Downsview
-M4K;East Toronto;The Danforth West, Riverdale
-M5K;Downtown Toronto;Toronto Dominion Centre, Design Exchange
-M7K;Not assigned;Not assigned
-M6K;West Toronto;Brockton, Parkdale Village, Exhibition Place
-M8K;Not assigned;Not assigned
-M9K;Not assigned;Not assigned
 M1L;Scarborough;Golden Mile, Clairlea, Oakridge
 M2L;North York;York Mills, Silver Hills
 M3L;North York;Downsview
@@ -84,6 +78,12 @@ M1M;Scarborough;Cliffside, Cliffcrest, Scarborough Village West
 M2M;North York;Willowdale, Newtonbrook
 M3M;North York;Downsview
 M4M;East Toronto;Studio District
+M4K;East Toronto;The Danforth West, Riverdale
+M5K;Downtown Toronto;Toronto Dominion Centre, Design Exchange
+M7K;Not assigned;Not assigned
+M6K;West Toronto;Brockton, Parkdale Village, Exhibition Place
+M8K;Not assigned;Not assigned
+M9K;Not assigned;Not assigned
 M5M;North York;Bedford Park, Lawrence Manor East
 M6M;York;Del Ray, Mount Dennis, Keelsdale and Silverthorn
 M7M;Not assigned;Not assigned
